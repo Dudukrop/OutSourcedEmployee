@@ -1,0 +1,15 @@
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Herança\Exercicio - Herança\bin\Debug\Exercicio - Herança.exe.config
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Herança\Exercicio - Herança\bin\Debug\Exercicio - Herança.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Herança\Exercicio - Herança\bin\Debug\Exercicio - Herança.pdb
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Herança\Exercicio - Herança\obj\Debug\Exercicio - Herança.csproj.AssemblyReference.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Herança\Exercicio - Herança\obj\Debug\Exercicio - Herança.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Herança\Exercicio - Herança\obj\Debug\Exercicio - Herança.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Herança\Exercicio - Herança\obj\Debug\Exercicio - Herança.pdb
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Herança\Exercicio - Herança\bin\Debug\Exercicio - Herança.exe.config
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Herança\Exercicio - Herança\bin\Debug\Exercicio - Herança.exe
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Herança\Exercicio - Herança\bin\Debug\Exercicio - Herança.pdb
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Herança\Exercicio - Herança\obj\Debug\Exercicio - Herança.csproj.AssemblyReference.cache
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Herança\Exercicio - Herança\obj\Debug\Exercicio - Herança.csproj.SuggestedBindingRedirects.cache
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Herança\Exercicio - Herança\obj\Debug\Exercicio - Herança.csproj.CoreCompileInputs.cache
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Herança\Exercicio - Herança\obj\Debug\Exercicio - Herança.exe
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Herança\Exercicio - Herança\obj\Debug\Exercicio - Herança.pdb
